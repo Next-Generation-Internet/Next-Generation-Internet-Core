@@ -1,5 +1,3 @@
-# Next-Generation-Internet-Core
-Building a decentralized, multilingual, and fair internet identity system powered by blockchain and AI.
 # 🌐 Next-Generation-Internet-Core
 
 **Building a decentralized, multilingual, and fair internet identity system powered by blockchain and AI.**
@@ -79,7 +77,8 @@ Or scan the QR code in the documentation.
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License** — free to use, modify, and distribute with attribution.  
+This project is licensed under the **GNU General Public License (GPL)** — free to use, modify, and distribute, but any derivative work must also remain open-source under the same license.
+
 
 ---
 
