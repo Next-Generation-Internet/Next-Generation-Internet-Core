@@ -2,13 +2,13 @@
 
 **Building a decentralized, multilingual, and fair internet identity system powered by blockchain and AI.**
 
----
+----
 
 ## 🧩 Introduction
 Blockchain technology has reshaped global economic thinking, yet it has not fully transformed how the internet itself works.  
 **Next Generation Internet** introduces a revolution that combines the power of [Blockchain](ca://s?q=Blockchain_explained) with [Artificial Intelligence](ca://s?q=AI_internet_innovation) to redefine brand identity and domain names forever.
 
----
+----
 
 ## 🎯 The Problem
 - Businesses and projects lose names to duplication or hijacking.  
@@ -17,7 +17,7 @@ Blockchain technology has reshaped global economic thinking, yet it has not full
 
 The current internet system is unfair, allowing brand names to be hijacked or monopolized.
 
----
+----
 
 ## 🚀 The Innovative Solution
 - Register your brand name in **any language** (Google, جوجل, غوغل) → same site instantly.  
@@ -25,13 +25,13 @@ The current internet system is unfair, allowing brand names to be hijacked or mo
 - Immune to seizure by companies or governments.  
 - Integrates with [DNS](ca://s?q=DNS_explained), [ENS](ca://s?q=Ethereum_Name_Service), [Handshake](ca://s?q=Handshake_blockchain_domains), and [Namecoin](ca://s?q=Namecoin_blockchain_domains).  
 
----
+----
 
 ## ⚙️ The Technology
 - **Blockchain + AI Integration:** Transparency, security, multilingual translation, duplication prevention.  
 - **Compatibility:** Works alongside existing systems for smooth adoption.  
 
----
+----
 
 ## 🎓 Added Value
 - **Digital Fairness:** Permanent identity immune to theft.  
@@ -39,7 +39,7 @@ The current internet system is unfair, allowing brand names to be hijacked or mo
 - **Ease of Use:** No extensions, no recurring fees.  
 - **Open Source:** Transparent, community-driven innovation.  
 
----
+----
 
 ## 🤝 Participation & Contribution
 This project is open-source. Contributions include:
@@ -49,7 +49,7 @@ This project is open-source. Contributions include:
 
 All contributions are transparently allocated to infrastructure, research, and adoption.
 
----
+----
 
 ## 🛠️ Possible Participation Models
 - Crowdfunding  
@@ -58,7 +58,7 @@ All contributions are transparently allocated to infrastructure, research, and a
 - Membership Tiers  
 - Innovation Grants  
 
----
+----
 
 ## 💰 Financial Support
 Support development via donations:  
@@ -67,20 +67,20 @@ Support development via donations:
 
 Or scan the QR code in the documentation.  
 
----
+----
 
 ## 🚀 Getting Started
 1. **Fork** this repository.  
 2. **Clone** it locally.  
 3. Contribute via **issues** or **pull requests**.  
 
----
+----
 
 ## 📜 License
 This project is licensed under the **GNU General Public License (GPL)** — free to use, modify, and distribute, but any derivative work must also remain open-source under the same license.
 
 
----
+----
 
 ## 🔒 Conclusion
 This project represents a historic transformation of the internet:  
